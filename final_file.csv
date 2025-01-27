@@ -1,0 +1,801 @@
+,serial number,id,name,father name,husband name,mother name,other name,wife name,name kannada,father name kannada,husband name kannada,mother name kannada,other name kannada,wife name kannada,house number,age,gender
+0,31,WBH4498515, pavan s,shankar,,,,,,,,,,,102,28,MALE
+1,32,WBH0077891,Roopa, Sheshappa,,,,,,,,,,,102/A,44,FEMALE
+2,33,'WBH0492074, Naveen,Sheshappa,,,,,,,,,,, 102/A,42,MALE
+3,34,WBHO0653782, Vijayakumar,Bhakthavathsalam,,,,,,,,,,, 102/A,38,MALE
+4,35,WBH4272878,Vedashree. S,, Suresh B,,,,,,,,,, 102/A,41,FEMALE
+5,36,WBH4312203, Suresh. B, Bakthavathsala. D,,,,,,,,,,, 102/A,44,MALE
+6,37,WBHO0456236, Nagarathna T N,, Suresh,,,,,,,,,,102/1,38,FEMALE
+7,38,WBH2035483,Prasannakumar K, Kempaiah,,,,,,,,,,,102/2,47,MALE
+8,39,WBH4115457, Renuka.R,, Bhakhavathsalam.D,,,,,,,,,, 102/A,60,FEMALE
+9,40,WBHO701896,$ Shankar,Subramanyam S,,,,,,,,,,,104,56,MALE
+10,41,\WBHO702357,Renukamba K R,,S Shankar,,,,,,,,,, 104,51,FEMALE
+11,42,DBC1283753, S$ Vishwamurthy,B Siddannagowda,,,,,,,,,,,104,51,MALE
+12,43,DBC1230291, Nirmala Murthy,, Vishwa Murthy S S,,,,,,,,,,104,48,FEMALE
+13,44,WBH2035467, Nanjundappa G, Gangappa G,,,,,,,,,,,104,78,MALE
+14,45,DBC1805605, Narasamma,, Nanjundappa G,,,,,,,,,,104,67,FEMALE
+15,46,'WBH2035475, Somashekar N,Nanjundappa G,,,,,,,,,,,104,50,MALE
+16,47,WBH0060533, Siddagangamma, Somashekhar,,,,,,,,,,,104,42,FEMALE
+17,48,'WBH3683000, Abhijith S,Shankar.B.S,,,,,,,,,,, 104,32,MALE
+18,49,'WBH4115077," GULED FAKEERAPPA DURAGAPPA,",DURAGAPPA GULED,,,,,,,,,,,104,47,MALE
+19,50,WBH4343620,SOWMYA S,,ABHWITH S,,,,,,,,,,104,31,FEMALE
+20,51,WBH4595674, Sandeep Siddaragadde Vishwamurthy,Vishwamurthy Siddaragadde,,,,,,,,,,,104,21,MALE
+21,52,'WBH3796646, M. Sudagar, M. Murugan,,,,,,,,,,,105,40,MALE
+22,53,WBH3726841,Palavasamuthu.V, Late Veludorai,,,,,,,,,,,105,38,MALE
+23,54,'WBH3726643, Pista Devi,, Dharmichand Chavaan,,,,,,,,,,105,38,FEMALE
+24,55,WBH3726668, Dharmichand Chavan, Sarvanlal,,,,,,,,,,,105,42,MALE
+25,56,"WBHO0065318,",Lakshmi N,, Nataraj PC,,,,,,,,,,105/2,51,FEMALE
+26,57,WBH3842440, Madhusudan, Ramappa,,,,,,,,,,, 106,54,MALE
+27,58,WBH0479402,Supriya S, Srinivasa,,,,,,,,,,, 106/3,35,FEMALE
+28,59,WBH2030237,Radharukmini,,Chinnappa,,,,,,,,,,107,79,FEMALE
+29,60,WBH2030245, Venkateshababu,Chinnappa,,,,,,,,,,,07,55,MALE
+30,61,'WBH2030252, Aanand,Chinnappa,,,,,,,,,,, 107,53,MALE
+31,62,WBH2030260,Uma,,Venkateshababu,,,,,,,,,,107,50,FEMALE
+32,63,WBH2030278, Nirmala,, Aanand,,,,,,,,,, 107,46,FEMALE
+33,64,WBH3048329,V Geetha,, H S Sudheer,,,,,,,,,,107,59,FEMALE
+34,65,'WBH3048311,HS Sudheer, Late Satyanarayana H N,,,,,,,,,,,107,62,MALE
+35,66,WBH3048337, HS Aainya,HS Sudheer,,,,,,,,,,,107,34,FEMALE
+36,67,WBH3398393, Jyothi Prasad Gorantla,, Guru Prasad Gorantla,,,,,,,,,, 107,45,FEMALE
+37,68,WBH3398401,Guru Prasad Gorantla, Siddeshwara Gorantla,,,,,,,,,,,107,50,MALE
+38,69,WBH3726791, Mamatha,, Madhusudan,,,,,,,,,, 107,45,FEMALE
+39,70,WBH4248993, Manjula. K. B,Venkataravanappa,,,,,,,,,,, 107,36,FEMALE
+40,71,WBH4249017,Venkataravanappa, Pedda Venkatarayappa,,,,,,,,,,,107,56,MALE
+41,72,WBH4569596, Meghana V,,, Uma V,,,,,,,,, 107,27,FEMALE
+42,73,WBH4556858, Ananda KR, Ramaiaha K,,,,,,,,,,,107,40,MALE
+43,74,DBC1700848,Nagesh CN, Narayanamurthy HL,,,,,,,,,,,108,43,MALE
+44,75,DBC1229293, Roopa CN,Narayanamurthy H L,,,,,,,,,,, 108,40,FEMALE
+45,76,WBH2035640, Narayanamurthy HL,Lakkappagowda,,,,,,,,,,,108/1,74,MALE
+46,77,WBH2035657,Chandramma K,,Narayanamurthy HL,,,,,,,,,, 108/1,62,FEMALE
+47,78,WBH2035665, Ramesh C,Narayanamurthy,,,,,,,,,,, 108/1,46,MALE
+48,79,WBH2035681, Lakshmi HR,, Ramesh C N,,,,,,,,,, 108/1,40,FEMALE
+49,80,WBH3670122, Bindu R,,Suresh CN,,,,,,,,,,No 108,37,FEMALE
+50,81,DBC8100968,Kalashree, Nanjundappa,,,,,,,,,,,109,37,FEMALE
+51,82,WBHO0158055, Manjunath Pandari,Ananth Pandari,,,,,,,,,,,109,38,MALE
+52,83,WBH2030336,Shanthamma,, Late Chandrappa,,,,,,,,,,109,86,FEMALE
+53,84,WBH3923885, Sindhu.M.J,, N. Rudresh,,,,,,,,,,109,30,FEMALE
+54,85,'WBH2035731, Renukaiah HN, Nanjundappa,,,,,,,,,,,109/1,43,MALE
+55,86,"'WBH0065755,",Rudresh N, Nanjundappa,,,,,,,,,,,109/1,38,MALE
+56,87,WBH2035749, Shakunthala P,, Ananthapandari,,,,,,,,,, 109/2,77,FEMALE
+57,88,'WBHO0059352,Prabhakara N,Nagaraj,,,,,,,,,,, 109/2,48,MALE
+58,89,WBH0060251,Anitha Km,, Renukaprasad,,,,,,,,,,109/4,37,FEMALE
+59,90,'WBH3414901, Girish N,Nanjundappa,,,,,,,,,,,09/217,45,MALE
+60,91,'WBH3419397, Sundaresh N, Nanjundappa,,,,,,,,,,," 109/217,",41,MALE
+61,92,WBH4587655,Bharath S, Sridhar Murthy K,,,,,,,,,,,110,23,MALE
+62,93,WBH0460758, Mahesha Kumar K K, Krishnamurthy,,,,,,,,,,, 110,62,MALE
+63,94,WBHO0461368, K Sridhar murthy,KM Krishna Murthy,,,,,,,,,,,110,54,MALE
+64,95,WBH0461269,Kaushal M,, Mahesha,,,,,,,,,, 110,49,FEMALE
+65,96,WBH0453035, Shalini,, Sridharamurthy,,,,,,,,,, 110,46,FEMALE
+66,97,WBH4312211, Varalakshmi. S, Sridhar Murthy,,,,,,,,,,,110,26,FEMALE
+67,98,WBH4444162,Bhavana S, K Sridhar Murthy,,,,,,,,,,,110,24,FEMALE
+68,99,WBH4622262, Gagan Bhat J,Rama bhatta J,,,,,,,,,,, 110,20,MALE
+69,100,"WBH4642435,",KAMAKSHIU A,,"J RAMBATTA,",,,,,,,,,,110,60,FEMALE
+70,101,WBH4642443,SUBBALAKSHMI M K,,,, J RAMA BHATTA,,,,,,,,110,81,FEMALE
+71,102,WBH4115408,Suma,, Rajashekharaiah,,,,,,,,,,12/2,37,FEMALE
+72,103,WBH4160859, Rajashekariah,Sharbalingaiah,,,,,,,,,,,12/2,33,MALE
+73,104,WBH4580650, Hemanth Kumar B, Babu R,,,,,,,,,,,#113,23,MALE
+74,105,WBH3726684, G.Venkatesh,Govind Swamy,,,,,,,,,,,15,52,MALE
+75,106,WBH4115366, Pavan.D, Dwarakanth.B,,,,,,,,,,,115,28,MALE
+76,107,WBH4439758,CHANNAPPA R, RAMU,,,,,,,,,,,119,45,MALE
+77,108,WBH4587671, Ashwini K,, Manjunath G D,,,,,,,,,,119,35,FEMALE
+78,109,WBH4531745,rashmik b, bettegowda km,,,,,,,,,,,122,23,FEMALE
+79,110,WBH4356390, Pavaman NS, Subramanya Rao N P,,,,,,,,,,,141,47,MALE
+80,111,WBH4556270, Niveda G, V Govindaraj,,,,,,,,,,, 142,27,FEMALE
+81,112,WBH4499471, sinchana dp,prabhu dm,,,,,,,,,,,149,30,FEMALE
+82,113,WBH4439741,PALLAVI JAMADAGNI,, RAGHAVENDRA S S,,,,,,,,,, 151,31,FEMALE
+83,114,WBH4115317, SANGMESH,BASWARAJ MULGE,,,,,,,,,,, #153,32,MALE
+84,115,'WBH4115036, Anuradha B.V,, sujth ky ner DQ,,,,,,,,,,"153.4 °'""= 4 Age: 39 Gepd:r'FE We",,
+85,116,WBH4499257, balakondayya chintamani, kondayya,,,,,,,,,,,154,42,MALE
+86,117,WBH4500526, savitha d nayak,, balakondayya,,,,,,,,,, 154,43,FEMALE
+87,118,WBH3726908, Rajani,, Rajesh,,,,,,,,,,157,40,FEMALE
+88,119,WBH4100046,Prema Harti,, Basana Gowa,,,,,,,,,, 160,59,FEMALE
+89,120,WBH4439527, Chirag S,Shivalingaiah HC,,,,,,,,,,, 164,24,MALE
+90,121,WBH4115523,C.H.Ranjth kumar, c.h.kumaran,,,,,,,,,,,170,70,MALE
+91,122,WBH4115531,C.H.Bhavana, C.H.Ranjith kumar,,,,,,,,,,,170,35,FEMALE
+92,123,WBH4115549, M.Padmaja,, C.H.Ramjith kumar,,,,,,,,,, 170,63,FEMALE
+93,124,WBH4115556, C.H.Chetana,C.H.Ranjth kumar,,,,,,,,,,, 170,33,FEMALE
+94,125,WBH4439576,Ashish D, Devaraj P,,,,,,,,,,, 173-5.,23,MALE
+95,126,'WBH4444345,Nagamma,, Devaraj p,,,,,,,,,,173-6,49,FEMALE
+96,127,WBH4440111, SURESH BABU D., LATE DORAI SWAMY,,,,,,,,,,,178/A,56,MALE
+97,128,WBH4499521, anil, Khema Ram,,,,,,,,,,,184,25,MALE
+98,129,WBH4587721, Lakshmi M, Manjunath B R,,,,,,,,,,,185,24,FEMALE
+99,130,WBH4498507,s umesh,,, kanika parameshwari,,,,,,,,,189,30,MALE
+100,131,WBH4531729, kannika parameshwari, seetharam,,,,,,,,,,, 189,57,FEMALE
+101,132,WBH4499513, rajesh r, ram murthy,,,,,,,,,,, 190,25,MALE
+102,133,WBH2030518, Anantha Murthy V,Venkatalakshmayya,,,,,,,,,,,190/A,59,MALE
+103,134,DBC7761638,Rajamma,, Rachappa Swamy S,,,,,,,,,,194,58,FEMALE
+104,135,WBH2030559, Krishnaveni V,, Seshadri A,,,,,,,,,,195,39,FEMALE
+105,136,'WBH2030948, C Appaiah,Chaudappa,,,,,,,,,,, 195,73,MALE
+106,137,WBH2030955,Gowramma,, C Appaiah,,,,,,,,,, 195,63,FEMALE
+107,138,DBC1754332, A Sheshadri,C Appaiah,,,,,,,,,,,195,45,MALE
+108,139,WBHO0655779, Venkatesh K, Krishnamurthy,,,,,,,,,,, 195/2,35,MALE
+109,140,DBC1283092,Srinivas M, Madhava Shetty,,,,,,,,,,,196,42,MALE
+110,141,DBC1751270, Shivamma M,Madhavashetti,,,,,,,,,,, 196,41,FEMALE
+111,142,WBH2030567, Madashetty, Siddashetty,,,,,,,,,,,196,87,MALE
+112,143,WBH2030575,Murinanjamma,," Mada Shetty,",,,,,,,,,,196,71,FEMALE
+113,144,WBH2030583, Madesh, Madashetty,,,,,,,,,,,196,45,MALE
+114,145,WBH2030989, Madesh, Madhavashetti,,,,,,,,,,,196,47,MALE
+115,146,WBH3842200,Kavitha,, Srinivas.M,,,,,,,,,, 196,30,FEMALE
+116,147,WBH4579082, Mangala,, Madesh,,,,,,,,,,196,27,FEMALE
+117,148,WBH4115275, Sangamesh Patil,Ashok Patil,,,,,,,,,,,96/A,48,MALE
+118,149,WBH4115259,Sujatha Patil,, Sangamesh,,,,,,,,,, 196/A,28,FEMALE
+119,150,WBH3726700, T.Krishna Murthy,T.Thimmaiah,,,,,,,,,,,96/A,45,MALE
+120,151,WBH3726635, Shwetha Krishnamurthy,, T.Krishna murthy,,,,,,,,,,196/A,39,FEMALE
+121,152,WBH4439535, Manjula K N, Narayanappa,,,,,,,,,,,197,25,FEMALE
+122,153,'WBH4554481, Rashmi Basavaraj Gadad,, Basavaraj,,,,,,,,,, 197,31,FEMALE
+123,154,WBH4556841, Basavaraj S G Gudihindal,Shivappa Gudihindal,,,,,,,,,,,197,34,MALE
+124,155,\WBH0657163, Vani, Narasimhalu K,,,,,,,,,,,197,41,FEMALE
+125,156,WBHO0656983, Venkata Raman A, Pullanna A,,,,,,,,,,,197,45,MALE
+126,157,WBH2030617, NalakshmiK,, Pullanna A,,,,,,,,,,197,55,FEMALE
+127,158,WBH2030625,Yallamma K,, Pullan,,,,,,,,,,197,75,FEMALE
+128,159,WBHO0657155, Rajeshwari K,Narasimhalu K,,,,,,,,,,,97,45,FEMALE
+129,160,WBHO0460733, Narasimhalu,Narayanappa,,,,,,,,,,, 197,69,MALE
+130,161,WBH0460642,Sudarshan, Narasimhalu K,,,,,,,,,,, 197,44,MALE
+131,162,WBH4553558,Kamalamma,, Ashwath Rao,,,,,,,,,,197/A,68,FEMALE
+132,163,WBHO0476697, Nagaraj V, Vishsanatha Shetty P S,,,,,,,,,,,197/1,70,MALE
+133,164,WBHO0476705, Krishnakumari V N,, Nagaraj V,,,,,,,,,, 197/1,69,FEMALE
+134,165,WBHO0476713, Padmavathamma P N,, Vishwanath Shetty P s,,,,,,,,,,197/1,88,FEMALE
+135,166,'WBH2030641, Manjunath P, Pillappa,,,,,,,,,,,198,70,MALE
+136,167,DBC1229780,Kumara C, Chikkanna,,,,,,,,,,,198,61,MALE
+137,168,DBC1282664, Muniraju C, Chikkanna,,,,,,,,,,,198,51,MALE
+138,169,DBC1283258, PremaM,, Kumara,,,,,,,,,, 198,50,FEMALE
+139,170,WBH2030666,Sandya,, Muniraju,,,,,,,,,,198,41,FEMALE
+140,171,WBH2035764, Sandeepkumar M, Manjunatha,,,,,,,,,,, 198,38,MALE
+141,172,'WBH2035772, Vinayakumar M, Manjunatha,,,,,,,,,,,98,36,MALE
+142,173,WBH2035780,Thejas K, Kumara C,,,,,,,,,,,198,34,MALE
+143,174,WBH4017703,Shreyas,C Kumar,,,,,,,,,,, 198,31,MALE
+144,175,DBC1228691, Yindresh Kumar B S, Shivakumara H B,,,,,,,,,,,199,43,MALE
+145,176,'WBH2031060,H B Shivakumar, H S Byra Shetty,,,,,,,,,,, 199,70,MALE
+146,177,WBH2031078, K R Shantha,, HB Shivakumar,,,,,,,,,, 199,61,FEMALE
+147,178,DBC1228832, Ramesha K R,Rangaswamy Shetty,,,,,,,,,,,99,47,MALE
+148,179,WBH2031086,S. Manjula,, Subramani G,,,,,,,,,,199,50,FEMALE
+149,180,WBH2031094, G. Subramani, Govindaraj,,,,,,,,,,, 199,60,MALE
+150,181,WBH3842473, Pavithra,, Indresh Kumar.B.S,,,,,,,,,, 199,29,FEMALE
+151,182,WBH3842523,Sunitha,, Ramesha KR,,,,,,,,,,199,37,FEMALE
+152,183,WBH3923901, H.P. Suman Karthik, H.B. Prasanna Kumar,,,,,,,,,,,199,29,MALE
+153,184,WBH3923893, H.G. Poomima,, H.B. Prasanna Kumar,,,,,,,,,, 199,57,FEMALE
+154,185,WBH4076063,Abusath, Abdul Kareem,,,,,,,,,,,199,34,MALE
+155,186,WBH4344693, Suhaas Chandra H P, HB Prasanna Kumar,,,,,,,,,,,199,25,MALE
+156,187,WBH4570008, Jayamma,, Lingaraju,,,,,,,,,, 199/1,59,FEMALE
+157,188,WBH2035798,Suresh Kumar B., Basappa S,,,,,,,,,,,199/2,54,MALE
+158,189,WBH2035806, Rekha KR,, Suresh Kumar,,,,,,,,,,199/2,52,FEMALE
+159,190,WBH2031136,"JAYAMALA K, HANUMANTHAIAH",, Hanumanthaiah K,,,,,,,,,, 200,64,FEMALE
+160,191,WBH2031144,"SUNDAR MURTHY. K. H KARIYAPPA,", K. Hanumanthaiah,,,,,,,,,,, 200,38,MALE
+161,192,WBHO0659730,Keshava Murthy K H,K. Hanumanthayya,,,,,,,,,,, 200,34,MALE
+162,193,WBH3842499, KH. Sowbhagya,, Balasubramani,,,,,,,,,, 200,41,FEMALE
+163,194,WBH3842531,K. HANUMANTHAIAH KARIVAPPA, Kariyappa,,,,,,,,,,,200,70,MALE
+164,195,WBH3842465, P. Balasubramani,Perumal,,,,,,,,,,, 200,48,MALE
+165,196,'WBH4076105, Sampath,Bacha Ganiga,,,,,,,,,,, 200,34,MALE
+166,197,WBH0177576, Satish S, Gopalagowda,,,,,,,,,,, 200/3,39,MALE
+167,198,'WBHO0087809, Shivashankar,Karigowda,,,,,,,,,,, 200/3,36,MALE
+168,199,WBHO0182030, Rathnamma, Doddaiah,,,,,,,,,,, 200/4,52,FEMALE
+169,200,WBH0091488, Chandrashekhar.H, Subbaiah H.N,,,,,,,,,,,200/4,44,MALE
+170,201,WBH2035855, Girish, Subbaiah,,,,,,,,,,, 200/4,44,MALE
+171,202,WBH2035863, Dayananda H.D,Doddaiah,,,,,,,,,,, 200/4,41,MALE
+172,203,DBC1802701,R Rathnamma,, Gajendreprakasha,,,,,,,,,,201,45,FEMALE
+173,204,DBC1802511, BC Vijay,Cheluvaraju,,,,,,,,,,, 201,44,MALE
+174,205,DBC1802503, B C Bharathi, Cheluvaraju B L,,,,,,,,,,, 201,43,FEMALE
+175,206,WBH2031151, B L Cheluvaraj, B Lingaiah,,,,,,,,,,,201,71,MALE
+176,207,'WBH2031177, B L Hulikeshav, B Lingaiah,,,,,,,,,,, 201,61,MALE
+177,208,DBC1233824,BL Gajendraprakasha,B Lingaiah,,,,,,,,,,,01,56,MALE
+178,209,WBH2031193,Komal BH,, B L Hulikeshav,,,,,,,,,, 201,49,FEMALE
+179,210,DBC1755214, BC Seema, B L Cheluvaraj,,,,,,,,,,,201,47,FEMALE
+180,211,DBC1700640, Pushpalatha K M,, B L Dharmalingam,,,,,,,,,, 201,43,FEMALE
+181,212,WBH0060327,Sudarshana B H, Hulikeshava BL,,,,,,,,,,, 201,33,MALE
+182,213,WBH2035913, Lokesh B.C, Cheluvaraj B.L,,,,,,,,,,, 201,39,MALE
+183,214,'WBH4270799, Lohith. D,Dharmalingu. B.L,,,,,,,,,,, 201,27,MALE
+184,215,WBH4362505,Lavanya D, Dharmalingy B L,,,,,,,,,,, 201,24,FEMALE
+185,216,WBH4220034,Uma S, G Srinivas,,,,,,,,,,,201/1,29,FEMALE
+186,217,'WBH4115051, DHARMALINGU B L,B LINGAIAH,,,,,,,,,,," NO-201,",57,MALE
+187,218,"'WBH3982667,",VAY KUMAR S., SIDDAPPA,,,,,,,,,,, NO 202,41,MALE
+188,219,WBH4220091,Sayira Banu,, Sameer,,,,,,,,,, 202,42,FEMALE
+189,220,WBH4220067,Shameer Chiradurga Mehaboob sh, Mehboob sab,,,,,,,,,,,202,42,MALE
+190,221,WBH4115267,Bharat Thare, Baburao Thare,,,,,,,,,,, 202,76,MALE
+191,222,WBH4115143, Roopa Thare,, Bharath Thare,,,,,,,,,,202,35,FEMALE
+192,223,WBH4115507, VAY KUMAR RAO AMBEKAR,SADA SIVA RAO AMBEKAR,,,,,,,,,,, 202,38,MALE
+193,224,"WBH4263885,", Vidhya. VPurandare,,Vijaykumar. S. Purandare,,,,,,,,,,202,42,FEMALE
+194,225,WBH4263893, Vijaykumar S. Purandare,B. Purandare,,,,,,,,,,, 202,48,MALE
+195,226,WBH4498838, MURGEPPA JANAPPA,SURYAKANTH JANAPPA,,,,,,,,,,, #202,37,MALE
+196,227,WBH4219952, Pavithra S, Srinivasan G,,,,,,,,,,, 202/1,30,FEMALE
+197,228,'WBH4550455,HARSHA N Janappa,, Murgeppa Janappa,,,,,,,,,,"#202, 1st Floor, DR-5",30,FEMALE
+198,229,WBH4115499,SARALA BAI AMBEKAR,, SADA SIVA RAO AMBEKAR,,,,,,,,,, NO 202,72,FEMALE
+199,230,WBH4115069,VANDITHA SUKANYA, SIDDAPPA,,,,,,,,,,, NO 202,45,FEMALE
+200,231,WBH4115341, PRASHANTH KUMAR S, SIDDAPPA,,,,,,,,,,, NO 202,36,MALE
+201,232,WBH0654525, Vanajakshamma,, Subramanyam,,,,,,,,,,204,78,FEMALE
+202,233,WBH2031201,K Rameshababu, Subramanyam,,,,,,,,,,, 204,61,MALE
+203,234,WBH0654533, Shridevi,, K Rameshababu,,,,,,,,,,204,53,FEMALE
+204,235,WBH4272332, Swathi. K,K. Ramesh Babu,,,,,,,,,,, 204,26,FEMALE
+205,236,WBH4272357,Soumya. K, K. Ramesh Babu,,,,,,,,,,,204,30,FEMALE
+206,237,WBH4595021, k harshith kumar kaparthi,K Ramesh,,,,,,,,,,, 204,21,MALE
+207,238,'WBH4023628, NAVEENA HAREESH,," HAREESHA KUMAR, N",,,,,,,,,,205,40,FEMALE
+208,239,WBH4008041, Vinod S,,Sathyanarayana,,,,,,,,,, 205,35,FEMALE
+209,240,WBH4012654,Sathyanarayana, Chandraiah Acharya,,,,,,,,,,, 205,42,MALE
+210,241,DBC1283167, Thirumallesh V, Venkatappa P,,,,,,,,,,, 206,41,MALE
+211,242,DBC1282797,Parvathamma,,P Venkatappa,,,,,,,,,, 206,68,FEMALE
+212,243,DBC1282771, Hemanthakumar V, P Venkatappa,,,,,,,,,,, 206,51,MALE
+213,244,WBH3726825,Shailaja A,Ashok Kumar,,,,,,,,,,,06,29,FEMALE
+214,245,WBH3726783,Ramadevi,, Ashok Kumar,,,,,,,,,, 206,30,FEMALE
+215,246,WBH4266631, Shwetha. K, Kadiraiah,,,,,,,,,,,206,27,FEMALE
+216,247,WBH4272290, Nalini. V,, Thirumallesha. V,,,,,,,,,, 206,32,FEMALE
+217,248,WBH4395174,Harshitha H, Hemanth Kumar V,,,,,,,,,,, 206,27,FEMALE
+218,249,WBH4577474, MS Soumya,MG Somashekhar,,,,,,,,,,, 205,29,FEMALE
+219,250,WBH4577821,Sachin Kumar M S., MG Somshekhar,,,,,,,,,,, 206,32,MALE
+220,251,ZWF2647360, Saroja MS,,Somashekhar,,,,,,,,,, 206,60,FEMALE
+221,252,WBH0656264,S Aruna Kumara,Subhasa Chandra,,,,,,,,,,, 209,44,MALE
+222,253,WBH3503646, girish N,HS Ningegowda,,,,,,,,,,, 209,33,MALE
+223,254,WBH4000394,Savitha,,Prakash,,,,,,,,,, 209,39,FEMALE
+224,255,WBH4023040, Prakash,Nagappa,,,,,,,,,,, 209,44,MALE
+225,256,'WBH3942422, Mangala Gowri,, Late. Jayaram,,,,,,,,,, 209,45,FEMALE
+226,257,WBH3942406,Ram Murthy, Late. Muniappa,,,,,,,,,,, 209,58,MALE
+227,258,'WBH4225363, Dayanand Gouda,Sankar Gouda,,,,,,,,,,, 209,34,MALE
+228,259,WBH4499109, mamatha r, ramamurthy m,,,,,,,,,,, 209,25,FEMALE
+229,260,WBH4277646,S. Akshay Kumar,R. Surendran Pillai,,,,,,,,,,, 209/B,27,MALE
+230,261,WBHO0455865,Murthy R, Rachaiah,,,,,,,,,,, 209/1,54,MALE
+231,262,WBHO0456012,Renuka V,, Murthy R,,,,,,,,,, 209/1,42,FEMALE
+232,263,WBH4076071,Chandrashekhar-M, Murthy.R.,,,,,,,,,,, 209/1,28,MALE
+233,264,WBH2035962,Somashekhar,,, Somamma,,,,,,,,, 209/2,52,MALE
+234,265,WBH2035988, Panduranga. Prabhu,Srinivasa,,,,,,,,,,, 209/5,60,MALE
+235,266,WBH2035996,Paavana,,Panduranga. Prabhu,,,,,,,,,, 209/5,51,FEMALE
+236,267,WBH2036002, Jayaramashetty. K.N,Ningaiah,,,,,,,,,,, 209/6,60,MALE
+237,268,WBH2036010, Kalavathi,, Jayaramashetty,,,,,,,,,, 209/6,53,FEMALE
+238,269,WBHO0061473,Pradeep N, Ningegowda,,,,,,,,,,, 209/7,34,MALE
+239,270,WBH2036051, Subhash Chandra,Yuvarajnaidu,,,,,,,,,,, 209/9,72,MALE
+240,271,'WBH2036069, Lalitha R,, Subhash Chandra P Y,,,,,,,,,,09/9,60,FEMALE
+241,272,WBH2036093, Prakash K T, Thippeswamy,,,,,,,,,,,211,69,MALE
+242,273,WBH2036101, Ravi,Sambashiva,,,,,,,,,,, 211,62,MALE
+243,274,WBH2036119, Hema,, Prakash KT,,,,,,,,,,211,63,FEMALE
+244,275,WBH2036127,Suguna,,Ravi,,,,,,,,,, 211,57,FEMALE
+245,276,WBH2036135, Bhaskar, Sambashiva,,,,,,,,,,,214,60,MALE
+246,277,WBH2036143, Shanthi,, Bhaskar,,,,,,,,,, 211,53,FEMALE
+247,278,WBH2036150,Venkatesh, Sambashiva,,,,,,,,,,,211,51,MALE
+248,279,WBH2036168, Jagadeesh,Veeraswamy,,,,,,,,,,,211,52,MALE
+249,280,WBH2036176, Latha,,Venkatesh,,,,,,,,,,211,48,FEMALE
+250,281,WBH2036184,Murugesh, Sambashiva,,,,,,,,,,, 211,48,MALE
+251,282,WBHO0055251,Shridevi,, Murugesh,,,,,,,,,,211,44,FEMALE
+252,283,WBH0055228, Lalitha,, Jagadeesh,,,,,,,,,,211,41,FEMALE
+253,285,WBH0055285, Devi,Ravi,,,,,,,,,,, 211,37,FEMALE
+254,286,WBH2036192, Sneha P K, Prakash K T,,,,,,,,,,, 211,38,FEMALE
+255,287,WBH2036200,Sahana, Prakash KT,,,,,,,,,,, 211,36,FEMALE
+256,288,WBH3503695, G Basavaraja, Gollalappa,,,,,,,,,,, 211,37,MALE
+257,289,WBH4076147, Priyadarshini. H.V,Venukumar,,,,,,,,,,, 211/1,38,FEMALE
+258,290,WBH4395166,Shwetha V, Venkatesh S,,,,,,,,,,,211/1,24,FEMALE
+259,291,WBH3842341, Shreevani Chandrashekhar,, Chandrashekhar. R.A,,,,,,,,,, 213,47,FEMALE
+260,292,WBH3842374, Shanthamma,, Ramappa,,,,,,,,,, 213,77,FEMALE
+261,293,WBH3842390,Chandrashekahar.R Arkachari, Ramappa,,,,,,,,,,, 213,55,MALE
+262,294,WBH3067766, Jennifer Stanly,, Late Stanly Adalf,,,,,,,,,, 213/A,47,FEMALE
+263,295,WBH2036226,Jayashri,, Divakar,,,,,,,,,, 213/A/1,68,FEMALE
+264,296,"'WBH4587697,", Nikhil Pawar D, Late Dilip Pawar,,,,,,,,,,, 214,29,MALE
+265,297,'WBH2035723, Hemavathi N,, Nanjundappa,,,,,,,,,, 217,59,FEMALE
+266,298,WBH4531612,sneha jain a,ashok kumar khicha,,,,,,,,,,, 217/a,22,FEMALE
+267,299,WBH3984119.,Ravindra, Shivanna,,,,,,,,,,, 217/109,50,MALE
+268,300,WBH3931565, Manjushree.T.S,, Suresh..S,,,,,,,,,,217/109,28,FEMALE
+269,301,'WBH3931557,Suresh.K.S,Shivanna,,,,,,,,,,,217/109,42,MALE
+270,302,WBH3991528,Latha HB,,Ravindra,,,,,,,,,, 217/109,40,FEMALE
+271,303,DBC8100281, Mjunithimmakka,, Muniyappa,,,,,,,,,,218,67,FEMALE
+272,304,DBC8100034, Shivakumara, Muniyappa,,,,,,,,,,,18,49,MALE
+273,305,'WBH2030773,Chandrashekhar, Muniyappa,,,,,,,,,,, 218,48,MALE
+274,306,DBC8100505, Varalakshmi,, Chandrashekhar,,,,,,,,,, 218,43,FEMALE
+275,307,WBH3405370, CT Suvama,, M Kumar,,,,,,,,,,218,48,FEMALE
+276,308,WBH3726692,Venkatamma,, Nagaraja,,,,,,,,,, 218,59,FEMALE
+277,309,WBH3726866, Pallavi.S,, Shyam.N,,,,,,,,,,218,32,FEMALE
+278,310,WBH3931516, Sandhya.A,, Karunakarababu A,,,,,,,,,, 218,59,FEMALE
+279,311,WBH4160891,Rakesh.a, Karunakar Babu.A,,,,,,,,,,, 218,28,MALE
+280,312,WBH0450387, MURGEPPA SURYAKANT,Govindaraj Guptha,,,,,,,,,,, 218,44,MALE
+281,313,WBHO0651190, Devaraja K P,Puttanarasaiah,,,,,,,,,,,218/2,49,MALE
+282,314,WBH4439550, Anjana Rattihall,,Badarinarayana Ratha,,,,,,,,,, 221,63,FEMALE
+283,315,"WBH4439568,", Jayateerth Rattihali,Badarinarayana Rattihall,,,,,,,,,,, 221,41,MALE
+284,316,WBH4439683, Priya B Jakati,, Jayateerth Rattihalli,,,,,,,,,, 221,36,FEMALE
+285,317,WBH4439709, Badarinarayana Rattihalli, Huchhacharya Rattihalli,,,,,,,,,,, 221,69,MALE
+286,318,"WBH4500500,", keerthana v,, gurudath p,,,,,,,,,, 226,31,FEMALE
+287,319,WBH4115176, swapnali kulkarni,, Raghavendra Kulkarni,,,,,,,,,, 228,32,FEMALE
+288,320,WBH4115283,Raghavendra Kulkarni, Muralidhararao,,,,,,,,,,, 228,36,MALE
+289,321,WBH4076121, Madhu shree.L,Lakshman Choudhary,,,,,,,,,,, 231,28,FEMALE
+290,322,'WBH4076089, Madhuram, Jayaramaji,,,,,,,,,,, 231,28,MALE
+291,323,WBH4115101,HIMA BINDU K,,K V SANDEEP,,,,,,,,,, 235,36,FEMALE
+292,324,WBH4339206, Kuna Ram, Govrdhan Lal,,,,,,,,,,, 236/1,32,MALE
+293,325,WBH4339230, Tarakumari. B,, Kunaram,,,,,,,,,, 236/1,31,FEMALE
+294,327,WBH4500492, hemanth raj s,shankar c,,,,,,,,,,,247,28,MALE
+295,328,WBH4499547, shankar ¢, chinnaswamy naidu,,,,,,,,,,,47,23,MALE
+296,329,WBH4499489,lathas,, shankar ¢,,,,,,,,,, 247,50,FEMALE
+297,330,WBH4003281, Rashmi B, Basavaraju,,,,,,,,,,,251,30,FEMALE
+298,331,WBH4014163,Kavya B, Basavaraju,,,,,,,,,,,251,31,FEMALE
+299,332,WBH4008694,Shashikala,,Basavaraj,,,,,,,,,,251,68,FEMALE
+300,333,'WBH4499133, shashidhar kr, ranganathaiah shetty k Pp,,,,,,,,,,,255,44,MALE
+301,334,WBH4500476, kv sulochana,, s mallesha,,,,,,,,,,267,66,FEMALE
+302,335,"WBH4439725,",JAGADAMBA MN,,LATER RANGANATH,,,,,,,,,, 271,75,FEMALE
+303,336,WBH4115085, RAGHAVENDRA S M, S MANJUNATHA SHASTRI,,,,,,,,,,, NO 271,47,MALE
+304,337,WBH4499919, hafifa fathima s, j sirajuddin,,,,,,,,,,, 279,22,FEMALE
+305,338,WBH4115093,LINGESH M, MAHALINGA,,,,,,,,,,,374/A,39,MALE
+306,339,WBH4220257,GANGAMMA,, NARAYANAPPA M,,,,,,,,,, NO 1059,56,FEMALE
+307,340,WBH4115309, Jayagowda, yalagowda,,,,,,,,,,,1961A_,45,MALE
+308,341,WBH4115473,SADA SIVA RAO AMBEKAR, NARASIMHA RAO AMBEKAR,,,,,,,,,,, NO 202,79,MALE
+309,342,WBH4398491, RAMESH P N,NINGAPPA PUJAR,,,,,,,,,,, NO..148,40,MALE
+310,343,WBH4399507,VEERANNA SANGALAD, CHANNAVEERAPPA SANGALAD,,,,,,,,,,, NO 149,38,MALE
+311,344,'WBH4220265,POORNIMA L.,," ANIL KUMAR,",,,,,,,,,,NO.5,35,FEMALE
+312,345,WBH4616488, TEJAS L PATEL,LALJIK PATEL,,,,,,,,,,,13,21,MALE
+313,346,WBH4220059, Girish BV, Vasanth Rei,,,,,,,,,,, 9149,30,MALE
+314,347,WBH3726718, Santosh S,S.K. Math,,,,,,,,,,, 77,32,MALE
+315,348,WBH3726759, KoranayyaS, Shivalingayya,,,,,,,,,,,77,86,MALE
+316,349,WBH2031342,Lakshmamma,, Muniyappa,,,,,,,,,, 80,61,FEMALE
+317,350,WBHO0657874, Sarvamangala,, Ramamurthy,,,,,,,,,,60,56,FEMALE
+318,351,WBH2031359,Shashikala V Bellary,, Manjunatha V Bellary,,,,,,,,,, 80,57,FEMALE
+319,352,\WBH0341495,Lokesh MV, Venkataiah M K,,,,,,,,,,, 80-A,52,MALE
+320,353,WBH2031375, Minakshi,Venkataiah,,,,,,,,,,,80-A,47,FEMALE
+321,354,WBH2032845, Deepa B. M, Muniyappa,,,,,,,,,,, 80/1,37,FEMALE
+322,355,WBH2032852,Aasha B. M, Muniyappa,,,,,,,,,,, 80/1,35,FEMALE
+323,356,WBH0341503, Harini Lokesh,, Lokesh MV,,,,,,,,,,80/A/1,43,FEMALE
+324,357,'WBH2032886, Leelavathi,, Keshavarao,,,,,,,,,,80/4,63,FEMALE
+325,358,WBH2032894,Chethan K,Keshavarao,,,,,,,,,,, 80/4,39,MALE
+326,359,'WBH2032902, Naveen,Keshavarao,,,,,,,,,,,80/4,38,MALE
+327,360,WBH4160917, Basavaraj.C.A,Chandrappa.C.A,,,,,,,,,,, 80(171),55,MALE
+328,361,'WBH4160909, Kavitha.B.A,,Basavarj.C.A,,,,,,,,,,80(171),45,FEMALE
+329,362,'WBH2032985, Vijayalakshmi,, Subramani,,,,,,,,,, 81,63,FEMALE
+330,363,WBH2032993, Ashok Kumar, Subramani,,,,,,,,,,,61,43,MALE
+331,364,WBH2033009,Rajesh S, Subramani,,,,,,,,,,,81,37,MALE
+332,365,'WBH3842283, R. Praveen Kumar, P. Rajedra Reddy,,,,,,,,,,,81,31,MALE
+333,366,WBH4266623, K. Geetha,, Shivaraju,,,,,,,,,, 81,33,FEMALE
+334,367,WBH2031391,Karphagam S,,Subramani,,,,,,,,,,81,66,FEMALE
+335,368,'WBH2035368, Srinivas, Puttaswamy,,,,,,,,,,,62,83,MALE
+336,369,WBH2035376, Raniyamma,, Srinivasa,,,,,,,,,,62,65,FEMALE
+337,370,DBC1283928,Shivashankar P, Perumal,,,,,,,,,,, 82,52,MALE
+338,371,"WBH2035418,", SeWvi,, Mani,,,,,,,,,, 82,52,FEMALE
+339,372,WBH2035434, Vimaladevi,, Shivashankar,,,,,,,,,, 82,48,FEMALE
+340,373,WBH2035442, Vishalakshi, Srinivas,,,,,,,,,,,82,47,FEMALE
+341,374,WBHO0054676,Jayasheela P M,Madhava Gowda P R,,,,,,,,,,, 82,38,FEMALE
+342,375,WBH3323946, Mani R,Raju Gownder,,,,,,,,,,,82,57,MALE
+343,376,WBH4219945,Rajamani,, Perumal,,,,,,,,,, 82,82,FEMALE
+344,377,WBH4220117, Rohan Raj,Chakarvathy,,,,,,,,,,, 82,31,MALE
+345,378,WBH4523973, Vaishali S, Shivashankar P,,,,,,,,,,,82,22,FEMALE
+346,379,WBH0456293,Chidambaram, Dharmaraj,,,,,,,,,,, 62/1,46,MALE
+347,380,WBHO0174953, Jivanand,Chinnappa Gowndar,,,,,,,,,,,62/1,41,MALE
+348,381,WBHO0067397,Komala,, Jeevananda,,,,,,,,,, 82/1,37,FEMALE
+349,382,\WBH2031409,Chennamma,, Boraiah,,,,,,,,,, 84,81,FEMALE
+350,383,WBH2031417, Rejashekara,Boraiah,,,,,,,,,,,84,64,MALE
+351,384,WBH2031425, Siddamma,, Siddappa,,,,,,,,,,84,56,FEMALE
+352,385,WBH2031433, DODDASIDDASHETTY, Chandrashetty,,,,,,,,,,,84,64,MALE
+353,386,WBH2031441, Girjamma,, Siddappa,,,,,,,,,,84,50,FEMALE
+354,387,'WBH2033140, Kokila,, Karunakaran,,,,,,,,,,84,60,FEMALE
+355,388,WBH0666735,Shivakumara, Armugam,,,,,,,,,,,84,36,MALE
+356,389,'WBH0655209, Gopinath A, Anbalagan,,,,,,,,,,,84/A,37,MALE
+357,390,'WBH0073767, Jagannatha A, N. Balagana,,,,,,,,,,,84/A,35,MALE
+358,391,WBH3914702,Prasanna Kumara,Channabasappa,,,,,,,,,,,84/A,47,MALE
+359,392,DBC1803253, Anbalagan,Vasudevan,,,,,,,,,,,84-A.,68,MALE
+360,393,DBC1803386,Sarasa,, Anbalagan,,,,,,,,,, 84-A,58,FEMALE
+361,394,WBHO0160143,Mamatha R, Rajashekhara,,,,,,,,,,, 84/1,37,FEMALE
+362,395,WBHO0454728, Manjunatha R,Rajashekhara,,,,,,,,,,,84/1,35,MALE
+363,396,WBH2033181, M.N. Suma,, B. Rajashekhara,,,,,,,,,, 84/1,50,FEMALE
+364,397,WBH0150821,Nagaraj HB, Bomme Gowda,,,,,,,,,,, 84/2,59,MALE
+365,398,'WBH0058305, Geetha V,, Nagaraj HB.,,,,,,,,,, 84/2,46,FEMALE
+366,399,WBH2033199, Radha,Siddappa,,,,,,,,,,, 64/3,34,FEMALE
+367,400,WBHO0164343,Rathnamma,, JM Chennappa,,,,,,,,,, 88,63,FEMALE
+368,401,DBC1751155, Manjula C, JM Chennappa,,,,,,,,,,,68,47,FEMALE
+369,402,WBH3796661, Srinivas, Late. Thimma,,,,,,,,,,,91,51,MALE
+370,403,WBH4680450,PRAJWALA G KULKARNI, GURURAJ S KULKARNI,,,,,,,,,,, 93,20,FEMALE
+371,404,'WBH3324258, SV Shivanandappa, Veerabhadrappaa,,,,,,,,,,, 93/4,69,MALE
+372,405,WBH3324274, Radhamma K,, Shivanandappa S V,,,,,,,,,," 93/A,",59,FEMALE
+373,406,WBH3324241, Virabhadra S V, Shivanandappa,,,,,,,,,,, 93/A,34,MALE
+374,407,WBH2031508, Chandrasekhar P, Chowdappa,,,,,,,,,,, 93/A/1,62,MALE
+375,408,WBH2031516,Kalyani B,, Chandra Shekhar 8,,,,,,,,,,93/A/1,48,FEMALE
+376,409,'WBH0455709,Sureshb Deshapande, Hanumantharao Deshpande,,,,,,,,,,,"96,",63,MALE
+377,410,WBH4592309, Manjula B,, Siddalingaiah,,,,,,,,,,01/A,41,FEMALE
+378,411,WBH3842507,VarLakshmi,, Anjenappa,,,,,,,,,,102,49,FEMALE
+379,412,WBH4587648,Manjunatha R, Ramachandran,,,,,,,,,,,105/A,34,MALE
+380,413,WBH4677647, SHIVA KUMAR S R SHET,,,,, NETRAVATHI,,,,,,,105/a,44,MALE
+381,414,WBH3726676, V.Shashi Kumar,Venkatappa,,,,,,,,,,, 108,32,MALE
+382,415,WBH4587705, Roopa S .,,"Jayanth, saw. 5H M",,,,,,,,,,"102°! ""= 4 Age: 31 Gepdor' EW FE",,
+383,416,WBH3807641, Venkataramaiah N,Nagarajaiah,,,,,,,,,,,110,43,MALE
+384,417,WBH3341641, Shilpa,, N Venkataramaiah,,,,,,,,,,110,39,FEMALE
+385,418,WBH3780806, Harish.C., S.Chandrashekar,,,,,,,,,,, 110,30,MALE
+386,419,WBH0461277, Parvathamma,, Krishnamurthy,,,,,,,,,,110/1,78,FEMALE
+387,420,WBH2031698, Somashekar, Thammaiah,,,,,,,,,,,136,46,MALE
+388,421,WBHO0055418,Manjula,, Gangappa,,,,,,,,,,137,47,FEMALE
+389,422,WBH0055913, Gangappa P, Pillappa,,,,,,,,,,,137,68,MALE
+390,423,DBC1804400, Maregowda,Mudalaiah,,,,,,,,,,,140,60,MALE
+391,424,DBC1804392,Gangalakshmamma,,Maregowda,,,,,,,,,,140,52,FEMALE
+392,425,WBH4677134, BHARGAV K R KALADI,RUDRAMUNIK,,,,,,,,,,, No 141,28,MALE
+393,426,WBH4677142, NAGARATHNA,, RUDRAMUNI K,,,,,,,,,, No 141,57,FEMALE
+394,427,WBH4677159,RUDRAMUNI K KALADI, KARIYAPPA,,,,,,,,,,, No 141,68,MALE
+395,428,'WBH3389228,Deepa L Odunavar,, Lingaraj D Odunavar,,,,,,,,,,142,35,FEMALE
+396,429,WBH2034619, Lingaraju D Odunavar,Late Doddabasappa Odunavar,,,,,,,,,,,142,46,MALE
+397,430,WBH2031730, Parijath S,, Natarajan,,,,,,,,,,"146,",68,FEMALE
+398,431,DBC1232297, Ashok N,Natarajan S,,,,,,,,,,,145,49,MALE
+399,432,DBC1229426, Arun N, Nataraj,,,,,,,,,,,146,48,MALE
+400,433,WBH0058479,Archana N,, Natarajan S,,,,,,,,,,146,41,FEMALE
+401,434,WBHO0058396, Revathi A,, Arun N,,,,,,,,,, 146,39,FEMALE
+402,435,WBH4329207, Venugopal, Subramanyam,,,,,,,,,,,147,48,MALE
+403,436,WBHO0065094,Sneha,, Venugopal,,,,,,,,,,147,39,FEMALE
+404,437,WBH4677696, SADHANA Y Y,,, YOGISHA HM,,,,,,,,,147,20,FEMALE
+405,438,"WBH4581948,", C Madan kumar,,,,, maheshwari maheshwari,,,,,,,148,34,MALE
+406,439,WBH2031813,Gurudevi Hugar,, Doddappa Hugar,,,,,,,,,,"148,",51,FEMALE
+407,440,'WBH4657482, PRAVEEN KUMAR C, CHANDRA KUMAR D,,,,,,,,,,,148,32,MALE
+408,441,WBH4676193, C MADAN KUMAR,,,, MAHESHWARI S,,,,,,,,148,34,MALE
+409,442,WBH0658021,Pupala GK, Gopal Naidu,,,,,,,,,,,148/1,53,MALE
+410,443,WBHO0658013,Kavitha,, Pupala G K,,,,,,,,,,148/1,43,FEMALE
+411,444,WBH0465740,Sahana,Govindegowda ML,,,,,,,,,,,148/3,36,FEMALE
+412,445,WBH2031854,B Ramesh, Marigowda,,,,,,,,,,, 149,57,MALE
+413,446,WBH2031862, B Lakshmi,, B Ramesh,,,,,,,,,,149,48,FEMALE
+414,447,'WBH4249264, Vijayalakshmi,, Hegde Babu Kharvi,,,,,,,,,, 149,37,FEMALE
+415,448,WBH4249272,Hegde Sudheer Kharvi, Hegde Babu Kharvi,,,,,,,,,,,149,38,MALE
+416,449,'WBH2031912, Shylaja R,, Shiva Kumar HS,,,,,,,,,,149/2,46,FEMALE
+417,450,WBH3324506, Bhagyamma D,, Narayana Shetty C N,,,,,,,,,, 150,73,FEMALE
+418,451,WBH4628533, Kruti Gangadkar,,, Komala P,,,,,,,,,150,21,FEMALE
+419,452,WBH2031995,Subhash L, Lakshman,,,,,,,,,,, 150/3,71,MALE
+420,453,WBH2032001, Lalitha S,, Subhash,,,,,,,,,, 150/3,61,FEMALE
+421,454,'WBH2032019,Prakash S, Subas,,,,,,,,,,, 150/3,44,MALE
+422,455,'WBH2032027, Vinayak S,Subas,,,,,,,,,,, 150/3,39,MALE
+423,456,WBH2032035, Shilpa P,, Prakash,,,,,,,,,, 150/3,37,FEMALE
+424,457,'WBH0455394,SN Shrinivasamorthi, Late S R Narayanarao,,,,,,,,,,,151,68,MALE
+425,458,WBHO0656488, H Manjula,, ‘S.\N.Shrinivasamurthy,,,,,,,,,,151,61,FEMALE
+426,459,WBH0455337, Girish PV, Venkataramarao P S,,,,,,,,,,,151,49,MALE
+427,460,WBH0060426,Raghavendra S S, Srinivas Murthy SN,,,,,,,,,,,151,33,MALE
+428,461,WBH4160826, Roopa Shetty,, Ganesh Shetty,,,,,,,,,,151,38,FEMALE
+429,462,WBH4160875,B.G. Bhojaraja,H.K. Gangaiah,,,,,,,,,,,151/A,43,MALE
+430,463,WBH4160883, Pavithra Raseeva,,Rajeeva 8.6,,,,,,,,,, 151/A,61,FEMALE
+431,464,WBH4220141, ANAND, PRABHUSHETTY,,,,,,,,,,, 151/B,32,MALE
+432,465,'WBH2033405, Gangaiah,Kadegowda,,,,,,,,,,, 151/A/1,79,MALE
+433,466,WBH2033413,Sannamma H S,, Gangaiah H K,,,,,,,,,, 151/A/1,73,FEMALE
+434,467,'WBH2033421, B.G.P Gangadhara,Gangaiah H.K,,,,,,,,,,,151/A/1,43,MALE
+435,468,WBH2033439, Rajeev,Gangaiah H K,,,,,,,,,,,151/A/1,47,MALE
+436,469,WBH2033447,Premakumari,,Gangadhar G,,,,,,,,,,151/A/1,40,FEMALE
+437,470,WBH0458646, Vishwanath A, Govindabhat,,,,,,,,,,,151/3,56,MALE
+438,471,WBHO0678466,Saraswathi,, Vishwanath,,,,,,,,,, 151/3,50,FEMALE
+439,472,WBH4220208,SHASHIKANTH, CHITRASEN,,,,,,,,,,,O 151/8.,36,MALE
+440,473,WBHO0656025, Shivaprakashan,Ponnuswamy,,,,,,,,,,,152,70,MALE
+441,474,WBH0459578, Jyothi,, Shivaprakash,,,,,,,,,,152,64,FEMALE
+442,475,WBHO0068676,Prabhakar A, Arumugam,,,,,,,,,,,152,44,MALE
+443,476,WBHO0057877, Shankar A,Arumugam,,,,,,,,,,,152,40,MALE
+444,477,WBH2033496, Swarna M,, Prabhakar A,,,,,,,,,, 152,40,FEMALE
+445,478,WBH2033504, Kalyani L,, Lakshmikantha P,,,,,,,,,,152,63,FEMALE
+446,479,'WBH2033512, Lakshmikantha P, Paramashivam,,,,,,,,,,,152,68,MALE
+447,480,WBHO0479840, Ushachandra,, Chandrashekhar Guptha,,,,,,,,,,152,62,FEMALE
+448,481,WBH0655654, Vijayakumar, Shivaprakash,,,,,,,,,,,152/A/1,38,MALE
+449,482,WBHO0459560, Savitha,Shivaprakash,,,,,,,,,,, 152/A/1,35,FEMALE
+450,483,‘WBHO0071506,Parshwanath,Puttanna,,,,,,,,,,,152/A/2,52,MALE
+451,484,WBHO0154021,Sudhamani TA,, Parshwanath,,,,,,,,,, 152/A/2,49,FEMALE
+452,485,WBH2033660, Rakshitha,, Roopesh,,,,,,,,,,153,52,FEMALE
+453,486,WBH3002268, Roopesh,Chikkanna,,,,,,,,,,, 153,59,MALE
+454,487,"'WBH4008835,",Shailashree,,Veerayyaswamy,,,,,,,,,,153,40,FEMALE
+455,488,'WBH4022406, Veerayyaswamy,Basavarajayya,,,,,,,,,,,153,46,MALE
+456,489,WBH4263810, Suhasini,, Manoj Kumar.R,,,,,,,,,, 153,31,FEMALE
+457,490,WBH4263828,Manoj Kumar.R, Late. Manik Prabhu,,,,,,,,,,, 153,45,MALE
+458,491,WBH0457242, Vasuki,, Karthikeyan,,,,,,,,,,153/2,41,FEMALE
+459,492,WBH2032092, Vishwanath N, Narasimhaiah,,,,,,,,,,, 154,60,MALE
+460,493,WBH0653600,V Arun Shet, Venkataram K. Shet,,,,,,,,,,,154,55,MALE
+461,494,WBH2032100, N Anitha,, Vishwanath,,,,,,,,,, 154,52,FEMALE
+462,495,WBHO0653618,Chethana A. Shet,, Aruna Shet V.,,,,,,,,,, 154,47,FEMALE
+463,496,WBH0056788,Reshma Jogi, Jayaramajogi,,,,,,,,,,,154/2,37,FEMALE
+464,497,'WBH3503729, MH Pancha Mahaldara, Hayab Vaba,,,,,,,,,,,155,79,MALE
+465,498,WBH3931573, Hajirathbi,, Saheblal,,,,,,,,,,155,44,FEMALE
+466,499,WBH3931540,Saheblal, Kasim Attar,,,,,,,,,,,155,48,MALE
+467,500,WBH2033850, Rajeshwari,, Hanumantharao,,,,,,,,,,155/1,60,FEMALE
+468,501,WBH2033868, Hanumantharao,Ramarao,,,,,,,,,,,155/1,62,MALE
+469,502,\WBH2033876,Shwetha H, Hanumantharao,,,,,,,,,,, 15/1,38,FEMALE
+470,503,WBH2033884, Raghavendra H, Hanumantharao,,,,,,,,,,,155/1,35,MALE
+471,504,WBH3341567, Rajeshwari H,, hanumantha Rao,,,,,,,,,, 155/1,60,FEMALE
+472,505,"WBH3842358,",Roshan Zakeer M.K, M.B. Khadar Sab,,,,,,,,,,, 155/1,36,MALE
+473,506,WBH3842457, S. Kazim Hussain,Syed Hussain,,,,,,,,,,, 155/1,42,MALE
+474,507,'WBH0654210, Srinivasa, Nallappa,,,,,,,,,,,156/5,44,MALE
+475,508,WBH0456772,Chandrakala,, Srinivasa,,,,,,,,,,"156/5,",40,FEMALE
+476,509,DBC1282920, Vijayalaxmi somayaji,, D R Somayaji,,,,,,,,,,157,72,FEMALE
+477,510,'WBH2034072,RASHMI R SOMAYAJI,, RAVINDRA. ‘SOMAYAJI,,,,,,,,,,157,50,FEMALE
+478,511,'WBH2032118,RAVINDRA SOMAYAJI, SOMAYAJID R,,,,,,,,,,,157,50,MALE
+479,512,WBH0164269, Gopal C, Channappa,,,,,,,,,,, 157/A,43,MALE
+480,513,DBC1228998, Rekha U Gudi,, Upendra Gudi,,,,,,,,,, 157-8.,66,FEMALE
+481,514,DBC1230093,Rajesh Somayait, Daththaji Rao,,,,,,,,,,,157-A,48,MALE
+482,515,WBH4219929, Basannagaud Harthi, Shivappa,,,,,,,,,,, 25,74,MALE
+483,516,WBH4100053, Kallappa Burj,Shidramappa,,,,,,,,,,,2,71,MALE
+484,517,WBH4100012,Shankramma Tippanagoudar,, Hanamanthagouda,,,,,,,,,,160,56,FEMALE
+485,518,'WBH4100020,Mahadevi Burji,, Kallappa Burji,,,,,,,,,,160,59,FEMALE
+486,519,WBH4587689, Chaithra P,Papegowda,,,,,,,,,,, 160,28,FEMALE
+487,520,WBH4599726,G Manjula,,Gurumurthy,,,,,,,,,, 160/2,25,FEMALE
+488,521,WBH2032134, Bharathi,, Trimurthy,,,,,,,,,, 160/2,83,FEMALE
+489,522,'WBH2034189,Gurumurthy, Trimurthy,,,,,,,,,,,160/2,34,MALE
+490,523,WBH2034163, Indraniyamma,, Markondaiah,,,,,,,,,,160/2/2,74,FEMALE
+491,524,'WBH2034171, Geetha, Trimurthy,,,,,,,,,,, 160/2/2,39,FEMALE
+492,525,'WBH2034262, Mallesha,Parameshwarappa,,,,,,,,,,,160/4,35,MALE
+493,526,'WBH0660092, Nagaraj, Guddadamallappa,,,,,,,,,,,160/9,46,MALE
+494,527,'WBH0000216, Ravikumar, Gopal,,,,,,,,,,,161,51,MALE
+495,528,WBH2032183, Babajan D M, Mohmed Kalee!,,,,,,,,,,,161,47,MALE
+496,529,WBH2032191, Akhila,,Babajan D M,,,,,,,,,,161,44,FEMALE
+497,530,WBH3002219, Chinnappa V,Vasudev Naidu,,,,,,,,,,,161,63,MALE
+498,531,WBH3002227,Gajalakshmi C,, Chinnappa V,,,,,,,,,,161,59,FEMALE
+499,532,WBH3503653, Rajesh Kumar D, Devendran,,,,,,,,,,,161,44,MALE
+500,533,WBH3726965, Balaji Naik, Late. Papa Naik,,,,,,,,,,,161,42,MALE
+501,534,WBH3726957, Venkatesh P,Late. Papa Naik,,,,,,,,,,,161,40,MALE
+502,535,WBH3726973, Divya Bai,,Balaji Naik,,,,,,,,,,161,31,FEMALE
+503,536,"WBH4498945,", Mahadevamma,, Late Basappa,,,,,,,,,,161,70,FEMALE
+504,537,WBH4500484, Komala k,, ramesh,,,,,,,,,,161,46,FEMALE
+505,538,WBH2034270,Mageshwari,,Rajeshakumara,,,,,,,,,,161/1,41,FEMALE
+506,539,'WBH0656660,Ramesha K,Kariyappa,,,,,,,,,,, 161/3,39,MALE
+507,540,WBH3842416, Srinivas BM, B. Muniyappa,,,,,,,,,,,162,31,MALE
+508,541,WBH2031383,B. Muniyappa,Bylappa,,,,,,,,,,, 162 Old 8D,68,MALE
+509,542,'WBHO0061853,Sendil Kumar, Nagaraj,,,,,,,,,,,163,38,MALE
+510,543,WBH4115390, P. Kaali Muthu, N. Palani Swamy,,,,,,,,,,,163,52,MALE
+511,544,WBH4220158, Arthur Gladwin, Arputha Rajan,,,,,,,,,,,163,31,MALE
+512,545,WBH4115218,JAYAPRAKASH D S, SHIVANNA D C,,,,,,,,,,," NO-163,",42,MALE
+513,546,WBH4115168,SAHANA S,, JAYAPRAKASH D S,,,,,,,,,," NO-163,",39,FEMALE
+514,547,"WBH4225355,",K. Velumani,, P. Kaali Muthu,,,,,,,,,,163,31,FEMALE
+515,548,WBH4225397, N. Mohan Kumar, Nalla Swamy,,,,,,,,,,,163,38,MALE
+516,549,WBH4642518,NAVYAP K,KAALIMUTHU P,,,,,,,,,,,163,21,FEMALE
+517,550,WBHO0067637,Selwam, Thangavelu,,,,,,,,,,,163/1,35,MALE
+518,551,WBHO0055897, Raj,Ramaswamy,,,,,,,,,,, 163/2,37,MALE
+519,552,'WBH0056291, Chandrashekar, Aanjayappan,,,,,,,,,,, 163/2,36,MALE
+520,553,WBH4220133,CHETHENA S, SIDDARAMAPPA H M,,,,,,,,,,, NO 163,36,MALE
+521,554,WBH4220240, NANDISH S,SIDDARAMAPPA H M,,,,,,,,,,, NO 163,33,MALE
+522,555,WBH4115465, PAULINE SUHASINI GLADWIN,, ARTHUR GLADWIN,,,,,,,,,, NO 163,39,FEMALE
+523,556,WBH4650222,G Meenakshi, R Gunaseelan,,,,,,,,,,, No.163 Ground Floor,42,FEMALE
+524,557,WBH4115424, Dontineni Ramakrishna, Sriniva Rao Dontinineni,,,,,,,,,,, 164,33,MALE
+525,558,WBH4115382, Donthineni hemanth Mumar, Donthineni Srinivasa Rao,,,,,,,,,,, 164,31,MALE
+526,559,WBH4623559,Anusha P, Padmaraj,,,,,,,,,,,164,21,FEMALE
+527,560,WBH4654976, SWAROOP RS,SHIVALINGAIAH H C,,,,,,,,,,,164,19,MALE
+528,561,WBH4115416,Chandrakal,,V. Ranga Raju,,,,,,,,,,169,39,FEMALE
+529,562,WBH4115432, Lakshmi,, K. Narasaiah,,,,,,,,,, 169,59,FEMALE
+530,563,WBH4160842, V. Rangaraju, Late. Anjaneya,,,,,,,,,,,169,27,MALE
+531,564,WBH4249025, V. Perumal,C. Varadaraj,,,,,,,,,,, 170,44,MALE
+532,565,WBHO0165456,Hemavathi G, Gopi S,,,,,,,,,,,171,41,FEMALE
+533,566,WBH0658583, Ashokakumar G,Gopi S,,,,,,,,,,, 171,40,MALE
+534,567,WBH0078329,Ramya G,Gopi S,,,,,,,,,,, 171,37,FEMALE
+535,568,WBH3931532,H.R. Heemavathi,, R. Umashankar,,,,,,,,,, 171,28,FEMALE
+536,569,WBH3986833, R. Uma Shankar,Nagarathnamma,,,,,,,,,,, 171,49,MALE
+537,570,"'WBH3983350,", Nagarathnamma,, Late. T. Ramakrishna,,,,,,,,,,171,65,FEMALE
+538,571,WBH0656793, Jnanavelu A, Armugam K,,,,,,,,,,,171/2,58,MALE
+539,572,DBC1283324, Girjamma S,, Bailappa,,,,,,,,,,173,70,FEMALE
+540,573,WBH2032225,Bailappa CR,Ramaiah,,,,,,,,,,, 173,81,MALE
+541,574,WBH2032233, K P. Sathish, Parashuramappa Kuppa,,,,,,,,,,,173,46,MALE
+542,575,'WBH4219937, Mahesh, Ningegowda,,,,,,,,,,, 173,36,MALE
+543,576,WBH3726742, Shashidhar M.T,Thammaiah.T,,,,,,,,,,, 173/A,43,MALE
+544,577,'WBH3726726, Sai Prajwal.J, Jayaram,,,,,,,,,,,173/A,38,MALE
+545,578,'WBH3726833, Lalitha,, M. Jayaram,,,,,,,,,, 173/A,58,FEMALE
+546,579,WBHO0076802, Dhanashekar K, Krishnan P,,,,,,,,,,,173/A,38,MALE
+547,580,"'WBH2034387,", Girish Kumar B,Bailappa,,,,,,,,,,,173/1,44,MALE
+548,581,'WBH0655126, Shashidhar B,Bylappa,,,,,,,,,,,173/1,35,MALE
+549,582,'WBH0078246, Krishnan P, Periswamy,,,,,,,,,,, 173/A/1,63,MALE
+550,583,WBH0078238, Prabhavathi,, Krishnan .P,,,,,,,,,,173/A/1,58,FEMALE
+551,584,WBHO0154880, Vani K, Krishnan P,,,,,,,,,,, 173/A/1,37,FEMALE
+552,585,WBH4642070, ANANYA D., DEVARAJU P,,,,,,,,,,,173/5,20,FEMALE
+553,586,WBH3670189,Dhinakaran N, Narayana Swamy MC,,,,,,,,,,, No 173/A,39,MALE
+554,587,WBH3670197, Thriveni P M,, Dhinakaran,,,,,,,,,,No 173/A,35,FEMALE
+555,588,WBH2032241, Jayavelu Appadurai Naidu,Appadurava Naidu,,,,,,,,,,,77,70,MALE
+556,589,WBH2032258,Prema Jayavelu,,Jayavelu,,,,,,,,,, 177,58,FEMALE
+557,590,WBH2034486, Balaji Jayavelu,Jayavelu,,,,,,,,,,,177,38,MALE
+558,591,WBH4272308, Tabitaprisilla David. S,Samson David,,,,,,,,,,,177,30,FEMALE
+559,592,WBH4272316, Japheth. U. John, Uthari Nadam,,,,,,,,,,, 177,36,MALE
+560,593,WBH4272340, Alice David,, Japheth. U. John,,,,,,,,,,177,34,FEMALE
+561,594,WBH0057380, Siddaraju,Mariyallaiah S H,,,,,,,,,,,178,36,MALE
+562,595,WBH4076162,MANGALA R B,, MANJUNATH M,,,,,,,,,,178,33,FEMALE
+563,596,WBH0056473, Sudhamani,, Siddaraju,,,,,,,,,, 178,34,FEMALE
+564,597,'WBH0068130, Manjunatha m, Mariyallaiah,,,,,,,,,,,178,33,MALE
+565,598,WBH4440046,ANITHA S, D SURESH BABU,,,,,,,,,,, 178/A,43,FEMALE
+566,599,WBH0156877,Renuka M,Mariyappa,,,,,,,,,,,178/A,55,FEMALE
+567,600,WBHO0157008, Ashwin Kumar, Manjunath K,,,,,,,,,,, 178/A,39,MALE
+568,601,WBHO0157016, Mukhesh, Manjunath K,,,,,,,,,,,178/A,36,MALE
+569,602,'WBH0060343, Govindappa, Venkatappa,,,,,,,,,,, 178/A,83,MALE
+570,603,WBH4665030,LAKSHMAMMA,, S H MARIYALLAYYA,,,,,,,,,, 178/A,55,FEMALE
+571,604,WBH4665105,MARIYALLAYYA S H, MARIHUCHAIAH,,,,,,,,,,,178/A,57,MALE
+572,605,WBH0183467,Uma B. K,Narasimhaiah,,,,,,,,,,, 178/1,61,FEMALE
+573,606,'WBH0058735, Suvarna B.K,Reddiyappa,,,,,,,,,,,178/1,53,FEMALE
+574,607,'WBH0150250,Geetha, Govindappa,,,,,,,,,,,178/A/2,40,FEMALE
+575,608,'WBH0165696, Krishna Kumar HB,Basavarajaiah H,,,,,,,,,,, 180,39,MALE
+576,609,WBH0451971, Ravi Kumar HB,Basavarajaiah H,,,,,,,,,,, 180,37,MALE
+577,610,WBHO0165688,Puttaraju, Basavarajaiah H,,,,,,,,,,,160,40,MALE
+578,611,WBHO0452086, Lakshman H P,Puttappa,,,,,,,,,,, 180,54,MALE
+579,612,WBHO0165662, Thara 8,, Lakshman H B,,,,,,,,,, 180,49,FEMALE
+580,613,WBH0078535,Gayathri 8,,Ravi Kumar H B,,,,,,,,,,180,35,FEMALE
+581,614,WBH4344727,VijiR,, Rajendran E,,,,,,,,,, 181,56,FEMALE
+582,615,WBHO0354019, Rajendra Reddy,Narasimha Reddy,,,,,,,,,,, 181,57,MALE
+583,616,WBH0056325, Varalakshmi,, Rajendra Reddy,,,,,,,,,, 181,52,FEMALE
+584,617,WBH3842176, S. Ruthra Moorthy,R. Sekar,,,,,,,,,,, 181,34,MALE
+585,618,WBH3842234,Lavanya.R,, P. Rajendra Reddy,,,,,,,,,,181,29,FEMALE
+586,619,WBH3842242, Lalitha. K,, Srinivas. K,,,,,,,,,,181,38,FEMALE
+587,620,WBH3842424, Smivas.K,Mohana,,,,,,,,,,,181,44,MALE
+588,621,WBH3842275, V. Karthick, T. Vadivelu,,,,,,,,,,,181,34,MALE
+589,622,WBH3842291, Balakrishna K,Rama.K,,,,,,,,,,, 181,44,MALE
+590,623,WBH3842317, C. Pranesh,E. Chandran,,,,,,,,,,,181,33,MALE
+591,624,WBH3842192, J. Banu Cnandra,B. Janarthan,,,,,,,,,,,181,35,MALE
+592,625,WBH3842259,Asha kK,,Balakrishna. K,,,,,,,,,,181,36,FEMALE
+593,626,WBH4263836, Raveendra. G.D,Devaraju. GR,,,,,,,,,,,181,34,MALE
+594,627,'WBH4263851, Rajendran, Late. M. Egambaram,,,,,,,,,,, 181,57,MALE
+595,628,WBH4582383, Bachchala Jyothi,, R Praveen Kumar,,,,,,,,,,181,24,FEMALE
+596,629,WBH4115226, Ramakrishna,Puttarangappa,,,,,,,,,,,181,28,MALE
+597,630,WBH4674420, RENUKAM,, MANJUNATH,,,,,,,,,, 181,35,FEMALE
+598,631,'WBH0193599,Purushotham R, Ramaswamy Shetty,,,,,,,,,,, 181/2,43,MALE
+599,632,'WBH0193581,Muralidhara TN, Nagarajashetty,,,,,,,,,,,181/2,43,MALE
+600,633,'WBH2034577, Gopal B, Chowdappa,,,,,,,,,,,181/5,50,MALE
+601,634,WBH2034585, Hariprasad B., Dayaenkataswami B.,,,,,,,,,,,181/5,39,MALE
+602,635,WBH0653816, Meenakshi B.,, Gopal,,,,,,,,,, 181/5,42,FEMALE
+603,636,'WBH3670130, Suresh Kumar K, Kariyanna,,,,,,,,,,,No 181,29,MALE
+604,637,WBH0158469,Manjulamma R,, Radhakrishna G R,,,,,,,,,,182,60,FEMALE
+605,638,WBH4115242, Yogeshmurthy,Krishnamurthy D N,,,,,,,,,,,182,28,MALE
+606,639,WBH4219978, Raju.M.R,Ramaiah,,,,,,,,,,, 182,50,MALE
+607,640,WBHO0159624, Virupaksha, Gangadevayya,,,,,,,,,,,182/1,55,MALE
+608,641,WBH0457457, Vijayalakshmi,, Virupaksha,,,,,,,,,,182/1,54,FEMALE
+609,642,WBH0450122, Manjunatha,,,Sharadamma,,,,,,,,, 182/2,39,MALE
+610,643,WBH0159418,Varalakshmi, Venkatesh,,,,,,,,,,,182/4,38,FEMALE
+611,644,'WBH0655977, Kavitha DN,, Yogesha Murthy,,,,,,,,,, 182/7 87,38,FEMALE
+612,645,WBH2032282, Maniyamma,, C Palani,,,,,,,,,,183,69,FEMALE
+613,646,WBH0477463,Sadashiva T.P, Thimma,,,,,,,,,,,183,64,MALE
+614,647,WBH0477471, Prema S.,, Sadashiv T. P.,,,,,,,,,,183,58,FEMALE
+615,648,WBH2032290, Manjunath P.,Palani C.,,,,,,,,,,,63,48,MALE
+616,649,WBH2032308, Arul Palani, Palani,,,,,,,,,,,183,44,MALE
+617,650,WBH2032316, Vani M. K.,, Manjunatha P.,,,,,,,,,, 183,38,FEMALE
+618,651,WBHO0460584, Babitha S,Sukumar P,,,,,,,,,,,183,34,FEMALE
+619,652,\WBH3503703,K Ganesh, Govindarao,,,,,,,,,,, 183,62,MALE
+620,653,WBH3503711,G Bharathi,, K Ganesh,,,,,,,,,,183,48,FEMALE
+621,654,WBH2034684, Vidhya,, Arul Palani,,,,,,,,,,183/4,41,FEMALE
+622,655,"WBH3670155,",Maiamma.P,,Palani,,,,,,,,,, No 183,67,FEMALE
+623,656,WBH4263844, Rajesh Kumar, Ganesh Lal,,,,,,,,,,,184,48,MALE
+624,657,'WBH4263869, Anitha Jain,, Rajesh Kumar,,,,,,,,,,184,42,FEMALE
+625,658,WBH2034700, Nagaraju D, Dasappa,,,,,,,,,,,184/1,59,MALE
+626,659,WBHO0061770, Husena B.,, Abdul Khadar,,,,,,,,,, 184/3,76,FEMALE
+627,660,WBH0477737, Huchamma,, Thimmaiah,,,,,,,,,, 185,83,FEMALE
+628,661,WBH2032340,Venkatesh, Thimmaiah,,,,,,,,,,,185,61,MALE
+629,662,WBHO0477554,Suresh, Thimmaiah,,,,,,,,,,, 185,50,MALE
+630,663,WBH2032365, Jagadeesh T.,Thimmaiah,,,,,,,,,,, 185,47,MALE
+631,664,WBH2032381,Pushpalatha,, Venkatesh.T,,,,,,,,,,185,53,FEMALE
+632,665,'WBH0463448, Santhosh B. V., Venkatarathnam Shetty T.,,,,,,,,,,,185,37,MALE
+633,666,WBH2032399, Leelavathi K.,, Jagadeesh T.,,,,,,,,,," 185,",37,FEMALE
+634,667,"WBHO0062745,",Chandramma,,Suresh,,,,,,,,,,185,44,FEMALE
+635,668,WBH3842549, H.V. Vinod Gowda, T. Venkatesh,,,,,,,,,,,"185,",29,MALE
+636,669,WBH4030615, AMITH KUMAR,LATE ANIL KUMAR,,,,,,,,,,,NO 185,29,MALE
+637,670,WBH4030714,GUNJAN DEVI,, AVADESH KUMAR,,,,,,,,,,NO 185,29,FEMALE
+638,671,WBH4030912, GAMALA DEVI,, LATE ANILKUMAR,,,,,,,,,, NO 185,45,FEMALE
+639,672,WBH4587713, Jyothi M, Manjunath BR,,,,,,,,,,, 185,22,FEMALE
+640,673,WBH4555595, Yogitha S, Suresh HT,,,,,,,,,,,185,22,FEMALE
+641,674,WBH4679213, BALAJIS, SURESH H T,,,,,,,,,,, 185,19,MALE
+642,675,WBH2034809, Susheelamma,, Ramakrishna,,,,,,,,,, 185/2,78,FEMALE
+643,677,WBH2034825,Shylaja H N,, Manjuna he RD. rey,,,,,,,,,, 185/2 °F Age: 44 Gepd or! FE WEE,,
+644,678,WBH4339214,Aishwarya S, Sugumar A,,,,,,,,,,,86,27,FEMALE
+645,679,WBH2032431,Sukumar, Armugam,,,,,,,,,,,186,56,MALE
+646,680,WBHO0656975, Shivakumar,Armugam,,,,,,,,,,,86,52,MALE
+647,681,DBC1754571,Vasumalli S,, Sukumar,,,,,,,,,,186,51,FEMALE
+648,682,WBH0657353,"Armugam,", Subramani,,,,,,,,,,, 186/1,84,MALE
+649,683,WBH2034924, Nageshwari S,, Shivakumar A,,,,,,,,,, 186/1,41,FEMALE
+650,684,WBH4591509,VISMITHA S,SUGUMAR A,,,,,,,,,,, NO 186,21,FEMALE
+651,685,WBHO0456616,Ramaswamy, Gangaiah,,,,,,,,,,,187,79,MALE
+652,686,WBH2032464, Yallamma,, Ramaswamy,,,,,,,,,,187,77,FEMALE
+653,687,'WBH2032480, Balakrishna,Ramaswamy,,,,,,,,,,,187,53,MALE
+654,688,WBH2032506,Latha,, Ramaswamy,,,,,,,,,,187,48,FEMALE
+655,689,WBH4272324, Kavitha Shetty,, Umesh shetty,,,,,,,,,, 187,35,FEMALE
+656,690,WBH4444147,Naveen Kumar N, Narasimha Shetty,,,,,,,,,,,187,26,MALE
+657,691,WBH0458745, Latha RS,, R V Jag; “*-h’ e,,,,,,,,,,1824 ° Fe \. Age : 35 Cea VEE w Fe,,
+658,692,'WBH0656629, R V Jagadish, Late Venkataramana Shetti,,,,,,,,,,, 187,42,MALE
+659,693,WBH0653923, Anuradha,, Balakrishna,,,,,,,,,,187,46,FEMALE
+660,694,WBH2032522,Johnson T, Thobias,,,,,,,,,,,188,59,MALE
+661,695,WBH2032530, Delbi Johnson,, Johnson T,,,,,,,,,, 188,57,FEMALE
+662,696,DBC4917621,Vasiyan Mary,Jhon Canady,,,,,,,,,,,188,52,FEMALE
+663,697,"WBH4498648,",Michael Johnson, Johnson.,,,,,,,,,,,188,29,MALE
+664,698,'WBH0055426, John Kennedy,Albert,,,,,,,,,,, 188/1,59,MALE
+665,699,'WBH4678181, MICHELLE JOHNSON, JOHNSON T,,,,,,,,,,,188/1,21,FEMALE
+666,700,WBH4678207,ESTHER J KENN, JOHN KENNEDY,,,,,,,,,,,188/1,19,FEMALE
+667,701,WBH2032563, Mayanna, Sibayya,,,,,,,,,,, 169,93,MALE
+668,702,'WBH2032589, Puttaraju, Mayanna,,,,,,,,,,,189,63,MALE
+669,703,WBH2032597, Varadaraju, Mayanna,,,,,,,,,,,189,53,MALE
+670,704,WBH2032605, Lakshmamma,, Varadaraju,,,,,,,,,, 189,52,FEMALE
+671,705,WBH3726874, J. Kavitha, N. Jaikumar,,,,,,,,,,,189,33,FEMALE
+672,706,WBH3726890,J. Girisha, N. Jaikumara,,,,,,,,,,,189,32,MALE
+673,707,WBH4249587,SomyaV,, Naveen,,,,,,,,,,189,30,FEMALE
+674,708,WBHO0655621, Kumara,Thimmappa,,,,,,,,,,,189/1,40,MALE
+675,709,WBH2035012,Veena BT,, M. Somashekar,,,,,,,,,,189/1,38,FEMALE
+676,710,WBH2035020, Jnanesh,Thimmappa,,,,,,,,,,,189/1,38,MALE
+677,711,WBH0457820, Raghu R,Ramakrishnappa,,,,,,,,,,,189/2,39,MALE
+678,712,\WBH2035079,Purushotham, Mahadevappa,,,,,,,,,,, 189/3,38,MALE
+679,713,WBH2035087, Padmavathi,, Purushotham,,,,,,,,,, 189/3,35,FEMALE
+680,714,WBH3842382, R.S. Ramesh,Raja,,,,,,,,,,, 190,35,MALE
+681,715,WBH3842309,Ramya.R,, Ramesh R.S,,,,,,,,,,190,28,FEMALE
+682,716,WBH4076113, Anees Fatima,, Sikandar. H,,,,,,,,,, 190,35,FEMALE
+683,717,'WBH4076055, Khurshid Begum,, B.K Habib,,,,,,,,,,190,80,FEMALE
+684,718,WBH4076154, Sikandar, Habib,,,,,,,,,,,190,41,MALE
+685,719,'WBH2032613, Sarojamma,, Velu,,,,,,,,,, 190/A,75,FEMALE
+686,720,'WBH0152561, Ranganath V, Velu,,,,,,,,,,, 190/A,70,MALE
+687,721,WBH2032654,Kumar V., Veluraju,,,,,,,,,,,190/A.,48,MALE
+688,722,WBHO0061788, Bhuvaneshwari Kumar,, Kumar V.,,,,,,,,,, 190/A,41,FEMALE
+689,723,WBH4362513, Karthik R, Ranganath V,,,,,,,,,,, 190/A,30,MALE
+690,724,WBH2032639,Devi,, Ranganatha,,,,,,,,,, 190-A,51,FEMALE
+691,725,'WBH3727005, Ramamurthy K,Kannan,,,,,,,,,,,190/1,54,MALE
+692,726,WBH3726999, Sudha,, Ramamurthy K,,,,,,,,,, 190/1,46,FEMALE
+693,727,WBH0655589, Divyashri, Shivamadhaiah,,,,,,,,,,,190/2,34,FEMALE
+694,728,WBH3903176,Nagarathna,, Murugesh,,,,,,,,,,190/4,61,FEMALE
+695,729,WBHO0455840, Vijay Kumar B M,Murugeshappa B S,,,,,,,,,,, 190/4,36,MALE
+696,730,WBHO0655852,Harsha M, Murugesh,,,,,,,,,,, 190/4,34,MALE
+697,731,WBH4678728,SUHAS HA,ANIL KUMAR H V,,,,,,,,,,, #190 5th main,23,MALE
+698,732,WBH4249686, BHARATI MH, MAHADEVAPPA SH,,,,,,,,,,, 191,37,FEMALE
+699,733,WBH4249009,Gowramma,,Shivappa,,,,,,,,,,191,74,FEMALE
+700,734,WBH4249520, MAHADEVAPPA SH, LT SHIVAPPA RH,,,,,,,,,,, 191,45,MALE
+701,735,WBHO0058792, T Dinesh,,, K G Thimma Mma,,,,,,,,, 191/A,34,MALE
+702,736,WBH0066027,K G Thimma Mma,, Thimmayya,,,,,,,,,,191/A,63,FEMALE
+703,737,WBHO0153080, T Shobha,,, Thimma Mma,,,,,,,,, 191/A,38,FEMALE
+704,738,WBH3341526, Dinesh T,Thimmaiah G,,,,,,,,,,,191/A,34,MALE
+705,739,WBH3726650,T.Nagesh, Late. Thimmaiah,,,,,,,,,,,191/A,36,MALE
+706,740,WBH2035269, Nandakumar, Vijayakumar,,,,,,,,,,,91/1,39,MALE
+707,741,WBH2032720, Ramu V. V.,Venkatesh T.,,,,,,,,,,, 192,62,MALE
+708,742,WBH2032738,Nagarathna V.,, Ramu V. V.,,,,,,,,,, 192,55,FEMALE
+709,743,WBH0462226, Srinivas V.,Venkatesh T.,,,,,,,,,,,192,51,MALE
+710,744,WBH0452458, Chandrakala,, Srinivas V.,,,,,,,,,,192,40,FEMALE
+711,745,WBHO0071621, LakshMikanth.V, Ramu VV,,,,,,,,,,,192,33,MALE
+712,746,WBH3726916, Vijay Kanth.V,V.V. Ramu,,,,,,,,,,,192,29,MALE
+713,747,'WBH0655944,Sharada,, Venkataswamy,,,,,,,,,,93,70,FEMALE
+714,748,WBH2032753,V Mamatha, Venkataswamy,,,,,,,,,,,193,47,FEMALE
+715,749,'WBH2032761, V Mahesha,Venkataswamy,,,,,,,,,,,193,45,MALE
+716,750,WBH3080579, N Ravish, Nanjundaiah S,,,,,,,,,,, 193/A,52,MALE
+717,751,WBH3065257, Nanjundaiah S, Gangadharaiah Late,,,,,,,,,,,193/A,77,MALE
+718,752,WBH3081411, N Lakshmi, Nanjudaiah S,,,,,,,,,,, 193/A,68,FEMALE
+719,753,WBH3341534, Nanjundaiah S, Gangaiah,,,,,,,,,,,193/4,77,MALE
+720,754,WBH3341542, Ravish N, Nanjundaiah H,,,,,,,,,,, 193/A,52,MALE
+721,755,'WBH2035301,Muniyamma,, Byrappa,,,,,,,,,,193/1,96,FEMALE
+722,756,WBH0655936, Madhumalathi, Venkataswamy K T,,,,,,,,,,,193/1,39,FEMALE
+723,757,"'WBH2032795,",Ramesh, Subramanyam,,,,,,,,,,, 194,50,MALE
+724,758,WBH0152272, Kavitha K,, Ramesh S,,,,,,,,,, 194,43,FEMALE
+725,759,WBH3503737, Devendra Naidu,Kondaiah Naidu,,,,,,,,,,,194,78,MALE
+726,760,"WBH3503745,", Prabhavathi Naidu,, Devendra Naidu,,,,,,,,,,194,75,FEMALE
+727,761,WBH3503752, Mahendra D Naidu,Devendra,,,,,,,,,,,194,40,MALE
+728,762,WBH4220166, B. Nirubha,, P. Balaji,,,,,,,,,, 194,33,FEMALE
+729,763,WBH4160818,P.Bataji, V. Perumal,,,,,,,,,,,194,42,MALE
+730,764,WBH4677589, DARSHAN R, RAMESH,,,,,,,,,,,194,22,MALE
+731,765,WBH4678298, MAHESH BABU R, RAMESH,,,,,,,,,,, 194,19,MALE
+732,766,\WBH3503760, M Venkataiah, Muniswamaiah,,,,,,,,,,, 205,55,MALE
+733,767,WBH3503778, Lakshmamma,, M Venkataiah,,,,,,,,,,05,50,FEMALE
+734,768,WBH3503786, M Sunitha, M Venkataiah,,,,,,,,,,,205,33,FEMALE
+735,769,DBC1803394,Lakshmi H,, Hemanth Kumar V,,,,,,,,,, 206,45,FEMALE
+736,770,WBH3796638, Shobha,, Prakash,,,,,,,,,, 206,50,FEMALE
+737,771,WBH4555090, Rita Kumari,, Narayan Lal,,,,,,,,,,242,42,FEMALE
+738,772,"WBH4555108,",Narayan Lal, Ganesh Lal,,,,,,,,,,, 242,44,MALE
+739,773,WBH4614004, JATIN N P,NARAYAN LAL,,,,,,,,,,, 242,21,MALE
+740,774,WBH3726882, Vishal V,Vijaya Kumar,,,,,,,,,,,245,30,MALE
+741,775,WBH4444170,AV Amruthesh Bhat, A Vishwanatha,,,,,,,,,,,245,24,MALE
+742,776,WBH4340154, Rashmi Moolya,, Anil 2,,,,,,,,,,242.0 * FS! Age: 32 Gepdor' FEW KE,,
+743,777,'WBH4220000, Gunavathi B G,, Late Y Suresh,,,,,,,,,,247,27,FEMALE
+744,778,WBH4543252,Anusubai Tumbagi,,Ramanagouda Gunakanal,,,,,,,,,, 247,31,FEMALE
+745,779,WBH4543377, Ramanagouda Gunakamal, Dattappagouda,,,,,,,,,,,247,36,MALE
+746,780,WBHO0152991, Khamrunnisa,, Ibrahim,,,,,,,,,, 248,86,FEMALE
+747,781,WBH0153007, Imthiyz, Shaik Ibrahim,,,,,,,,,,, 248,62,MALE
+748,782,WBH4362471,Sheerin |, Irpth ae,,,,,,,,,,,2.8 Age: £2 gh FEMALE,,
+749,783,'WBH4362489, | Mohammed Tanveer, Imthiyaz,,,,,,,,,,,248,29,MALE
+750,784,WBH4362497, Amrin Taj!, imthiyaz,,,,,,,,,,,248,43,FEMALE
+751,785,WBHO0153502, Zohara,, Imthiyaz,,,,,,,,,,248 50 main road 1st phase,49,FEMALE
+752,786,WBH4249579, Sumathi V,, Gangadhara.K. H,,,,,,,,,, 250,36,FEMALE
+753,787,WBH4115150,Balaji K, C Kumar,,,,,,,,,,,253,41,MALE
+754,788,WBH4448700, Sagar Shri Dalabanjana,Shri Kanthasa Dalabanjana,,,,,,,,,,, 257/1,30,MALE
+755,789,WBH4680237, ANURADHA KAMALAKSHA VERNEKER,, KAMALAKSHA. VERNEKER,,,,,,,,,,"265,",66,FEMALE
+756,790,WBH3780814,Nagamani.D.,, Srinivas.,,,,,,,,,, 271,52,FEMALE
+757,791,WBH4115200,K C Nagaveni,, Mallkarjunaprasanna,,,,,,,,,, 271,27,FEMALE
+758,792,WBH4115184, MALLIKARJUNA PRASANNA,NIRVANAPPA,,,,,,,,,,, NO 271,46,MALE
+759,793,WBH4440004,VASUDEVAR N,LATE R MNAGARAJA IYER,,,,,,,,,,,271,52,MALE
+760,794,WBH4440012, SUMATHIR, VASUDEVA R N,,,,,,,,,,, 271,48,FEMALE
+761,795,WBH4439766, ANAND RN, LATE R M NAGARAJA IYER,,,,,,,,,,, 271,49,MALE
+762,796,WBH4115358.,ANJANA,,SM RAGHAVENDRA,,,,,,,,,, NO 274,41,FEMALE
+763,797,WBH4160800, Deekshith 8.N,Nanjundappa.C,,,,,,,,,,,73,30,MALE
+764,798,WBH4344701,Satisha, Ramachandrappa,,,,,,,,,,, 274,45,MALE
+765,799,WBH4344719, Nalina Kumari. S,, Satisha,,,,,,,,,, 274,47,FEMALE
+766,800,WBH4115234, venkatiah, Mudugiri Chowdiah,,,,,,,,,,,274,55,MALE
+767,801,WBH4115291, Bhagirathi,, Venkatiah,,,,,,,,,, 274,28,FEMALE
+768,802,WBH4440129,VINAY R, RAMESH S,,,,,,,,,,, 277/1,25,MALE
+769,803,WBH4614012, YOGESH S,SURESH S,,,,,,,,,,,78,21,MALE
+770,804,WBH4440202, JUVERIATAJ, TAJUDDIN,,,,,,,,,,, 279,25,FEMALE
+771,805,WBH4439733, MOHAMMED ABBAS T, TAJUDDIN,,,,,,,,,,,279,24,MALE
+772,806,WBH4656096, GIRAMMA,,,,B RAJASHEKARA,,,,,,,, 84/1,49,FEMALE
+773,807,WBH4622254, Ankitha A,V Arun Shet,,,,,,,,,,," No 184,5th Main, 1st Stage",20,FEMALE
+774,808,WBH2035343, Arundathi,, Shivamadaiah,,,,,,,,,,1902/2,56,FEMALE
+775,809,'WBH0657973, Indira,Shivamadhayya,,,,,,,,,,,1902/2,36,FEMALE
+776,810,2WBH4683272,SHASHIDHAR MUTALIK DESAI,VITHALRAO,,,,,,,,,,,54,38,MALE
+777,811,2WBH4683314,RAJU, RAMAIAH,,,,,,,,,,, 258,38,MALE
+778,812,2WBH4683777,SAMHITHA B,BALAKRISHNAN R,,,,,,,,,,,187,19,FEMALE
+779,813,WBH4683926,SRIDAR S,SUBRAMANI,,,,,,,,,,, NO 199,21,MALE
+780,814,1WBH4684239,SUDHARANI,,, VELAMMAL,,,,,,,,, 619,21,FEMALE
+781,815,'WBHO0067785, Manjunatha,Ravi,,,,,,,,,,,196/A,39,MALE
+782,816,2WBH4685731,DINESH KUMAR P," PURUSHOTHAMAN,",,,,,,,,,,,No-186.,19,MALE
+783,817,2WBH4688180,BASAVARAJU SANDIGAWAD, SANAPPA,,,,,,,,,,, 192,18,MALE
+784,818,WBH4693131, gopal gopal,,,, manjula ¢ manjula,,,,,,,, 157/a 5th main,43,MALE
+785,819,WBH4693164, SHEKAR V,,,,, AMMU S.,,,,,,, 190/A,58,MALE
+786,820,WBH4693297, Purushotham S, Shivashankar P,,,,,,,,,,," #82, 5th Main, 1st phase,",18,MALE
+787,821,'WBH4694733, BASANTH B Y, YOGESH B R,,,,,,,,,,," 115, 40 Feet Road",21,MALE
+788,822,2'WBH4697850, Rakshita R, Ravindra Somaya,,,,,,,,,,, 157,20,FEMALE
+789,823,1'WBH4702569, SINCHANA R, RAMAKRISHNA R.,,,,,,,,,,, 205,18,FEMALE
+790,824,1WBH4706552, MURUGESH B S, SHIVALINGAPPA,,,,,,,,,,, 193/A,66,MALE
+791,825,1WBH4714291, SOWMYA V, R MANJUNATH,,,,,,,,,,, 196/A,33,FEMALE
+792,826,2WBH4711487, Hithen Jain, Rajesh kumar,,,,,,,,,,, 184,18,MALE
+793,827,2'WBH4718672,PK KAAVIYA, P KAALIMUTHU,,,,,,,,,,, 163,18,FEMALE
+794,828,2WBH4727061, Sridevi D,, Dhanashekhar,,,,,,,,,," No 173/A,",34,FEMALE
+795,829,NAA3390283, Chaitanya A, Naresh Kundar,,,,,,,,,,," 221, 2nd Floor, 1st Stage, 1st",36,FEMALE
+796,830,1YNX2055218, Naresh Kundar, Bollu Poojari,,,,,,,,,,,"221, 2nd Floor, 1st stage, WOC Road",45,MALE
+797,831,2WBH4733812, Karthik V, S Venugopal,,,,,,,,,,, #147,18,MALE
+798,832,2WBH4733606, SANGAPPA B SANDIGAWAD," BASAPPA,",,,,,,,,,,, 192,49,MALE
+799,833,WBH4739918, GOWDAB L, NAGARAJ M,,,,,,,,,,," #145/1, Samruddhi Nilaya",47,MALE
